@@ -1,0 +1,5 @@
+Correcciones CACAMarcador:
+1.- Indicar quien saca al inicio del SET -> V
+2.- Marcar al líbero (fondo oscuro) -> V
+3.- Rotaciones de jugadores -> V
+4.- Actualitzar l'escut del CV Els Monjos -> V 

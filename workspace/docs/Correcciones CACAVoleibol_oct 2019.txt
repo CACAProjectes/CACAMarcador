@@ -1,0 +1,3 @@
+Correcciones CACAVoleibol:
+1.- Mostrar los partidos de super-liga en Favoritos -> V
+2.- Crear pantalla de Favoritos

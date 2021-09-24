@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">CACAMarcador</string>
+    <string name="app_name_sh">CACAVoleibol</string>
+    <string name="title_activity_calendari">CACAVolei</string>
+    <string name="titol_local">Equip LOCAL</string>
+    <string name="titol_seleccio_jugada">Selecció de Jugada</string>
+    <string name="marcador_local">0</string>
+    <string name="marcador_visitant">0</string>
+    <string name="titol_visitant">Equip VISITANT</string>
+    <string name="marcador_separador">-</string>
+    <string name="marcador_inicial">0</string>
+    <string name="punts_inicials">00</string>
+    <string name="set_inicial">1</string>
+    <string name="set_text">SET</string>
+    <string name="marcador_set_1">0-0</string>
+    <string name="missatge_guardar_partit">Per guardar el partit, premi \'SI\'. En cas contrari, premi \'NO\'.</string>
+    <string name="titol_guardar_partit">¿Guardar Partit?</string>
+    <string name="lista_partit">1 - CVBarça vs CVLleida</string>
+    <string name="seleccio_accio_attack_error">Attack Error</string>
+    <string name="seleccio_accio_serve_error">Serve Error</string>
+    <string name="seleccio_accio_ace_server">Ace Serve</string>
+    <string name="seleccio_accio_wining_block">Wining Block</string>
+    <string name="seleccio_accio_attack_point">Attack Point</string>
+    <string name="seleccio_accio_error_set">Error on Set</string>
+    <string name="seleccio_accio_altres">Altres</string>
+    <string name="seleccio_accio_altres_error">Altres Error</string>
+    <string name="seleccio_accio_cancel">Cancel</string>
+    <string name="seleccio_accio_canvi">Canvi</string>
+    <string name="seleccio_accio_cancella">Cancel·lar</string>
+    <string name="seleccio_accio_guardar">Guardar</string>
+    <string name="seleccio_accio_ok">Ok</string>
+    <string name="seleccio_accio_temps_mort">Temps mort</string>
+    <string name="seleccio_accio_desfer_punts">Desfer punt anterior</string>
+    <string name="seleccio_accio_canvi_jugador">Canvi jugador</string>
+    <string name="seq_buit">_</string>
+    <string name="seq_unpunt">º</string>
+    <string name="seq_tempsmort">T</string>
+    <string name="seleccio_accio_inici">Possició inicial</string>
+    <string name="title_activity_seleccio_jugadaact">SeleccioJugadaact</string>
+    <string name="title_activity_seleccio_jugada">Seleccio Jugada</string>
+    <string name="nom_jugador">00 Jugador</string>
+    <string name="addJugadorLocal">ADD_JUG_LOC</string>
+    <string name="num_jugador">Dorsal Jugador:</string>
+    <string name="titol_add_jugador">- Afegir Jugador -</string>
+    <string name="nom_jugador_new">Nom Jugador:</string>
+    <string name="esLibero">Líbero</string>
+    <string name="bt_afegir_jugador_ok">Afegir</string>
+    <string name="bt_afegir_jugador_cancel">Cancel·la</string>
+    <string name="equip_local_new_jug">Equip Local</string>
+    <string name="equip_visitant_new_jug">Equip Visitant</string>
+    <string name="nom_jugador_aux">Jug.</string>
+    <string name="resetMarcador">RM</string>
+    <string name="reset_si">Sí</string>
+    <string name="reset_no">No</string>
+    <string name="libero">LI</string>
+    <string name="central">CE</string>
+    <string name="altres">AL</string>
+    <string name="alert_reset_marcador">¿Està segur de voler reinicialitzar el Marcador? Totes les dades seràn esborrades.</string>
+    <string name="backupMarcador">BM</string>
+    <string name="alert_backup_marcador">¿Està segur de desfer la darrera acció?</string>
+    <string name="esCentral">Central</string>
+    <string name="esAltre">Altre</string>
+    <!-- -->
+    <!-- DORSARL;NOM;COGNOMS;DATA_NAIXEMENT;SEXE;POSICIÓ
+     <string-array name="jugadors_barca_cvb_grana">
+         <item>11;Marta;Campos;30/04/2003;M;CE</item>
+         <item>15;Carla;Capacchione;29/09/2003;M;CE</item>
+         <item>17;Berta;;1/01/2003;M;PU</item>
+         <item>7;Mariona;;1/01/2003;M;PU</item>
+         <item>12;Júlia;;1/01/2003;M;OP</item>
+         <item>18;Michelle;;1/01/2003;M;CO</item>
+         <item>4;Lola;;1/01/2003;M;LI</item>
+         <item>8;Aria;;1/01/2003;M;OP</item>
+     </string-array>
+    <string-array name="jugadors_cv_esplugues__b_">
+        <item>1;;;01/01/2003;M;CE</item>
+        <item>2;;;01/01/2003;M;CE</item>
+        <item>3;;;1/01/2003;M;PU</item>
+        <item>4;;;1/01/2003;M;PU</item>
+        <item>5;;;1/01/2003;M;OP</item>
+        <item>6;;;1/01/2003;M;CO</item>
+        <item>7;;;1/01/2003;M;LI</item>
+        <item>8;;;1/01/2003;M;OP</item>
+    </string-array>
+    -->
+</resources>

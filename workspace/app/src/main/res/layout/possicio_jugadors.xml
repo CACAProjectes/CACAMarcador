@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvPosicio15"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_5"
+                android:contentDescription="5L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio14"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_4"
+                android:contentDescription="4L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:layout_width="10sp"
+                android:layout_height="match_parent"
+                android:background="@mipmap/ic_posicion_central"
+                android:gravity="center_horizontal|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/tvPosicio22"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_2"
+                android:contentDescription="2V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio21"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_1"
+                android:contentDescription="1V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp">
+
+            <TextView
+                android:id="@+id/tvPosicio16"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_6"
+                android:contentDescription="6L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio13"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_3"
+                android:contentDescription="3L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:layout_width="10sp"
+                android:layout_height="match_parent"
+                android:background="@mipmap/ic_posicion_central"
+                android:gravity="center_horizontal|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/tvPosicio23"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_3"
+                android:contentDescription="3V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio26"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_6"
+                android:contentDescription="6V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvPosicio11"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_1"
+                android:contentDescription="1L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio12"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_2"
+                android:contentDescription="2L"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:layout_width="10sp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="0dp"
+                android:background="@mipmap/ic_posicion_central"
+                android:gravity="center_horizontal|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/tvPosicio24"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_4"
+                android:contentDescription="4V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tvPosicio25"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:background="@mipmap/ic_posicion_5"
+                android:contentDescription="5V"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
